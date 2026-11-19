@@ -4,6 +4,12 @@ from turtledemo.nim import COLOR
 COLOR_RED = (139, 0, 0)
 COLOR_WHITE = (255, 255, 255)
 
+# E
+
+ENTITY_SPEED = {
+    'Level1Bg0': 0,
+}
+
 # M
 
 MENU = ('NOVO JOGO 1P',
